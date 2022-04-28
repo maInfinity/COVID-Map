@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "https://s1.ax1x.com/2022/04/26/L7wOWF.png",
+        "title": "南昌-核酸检测-上门采样",
+        "subTitle":"护士上门，安全采样，报告24-48小时出具",
+        "location":"松鼠快检（南昌）",
+        "price": "268"
+    },
+    {
+        "id": "2",
+        "imgUrl": "https://s1.ax1x.com/2022/04/26/L7wLJU.png",
+        "title": "南昌市核酸检测",
+        "subTitle":"定点检查，快速采样，防交叉感染，安全放心",
+        "location":"南昌新世纪医院",
+        "price": "49"
+    },
+    {
+        "id": "3",
+        "imgUrl": "https://s1.ax1x.com/2022/04/26/L7wLJU.png",
+        "title": "南昌市核酸检测",
+        "subTitle":"定点检查，快速采样，防交叉感染，安全放心",
+        "location":"南昌市西湖区桃花镇社区卫生服务中心",
+        "price": "40"
+    }
+]

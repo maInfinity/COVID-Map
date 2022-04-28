@@ -1,0 +1,29 @@
+body,ul,li,p,h1,h2,h3,h4,h5,div,img {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style:none;
+}
+
+img{
+    border: none;
+}
+a{
+    color: rgb(65, 105, 226);
+}
+html{
+    font-size: 13.333333333333vw;
+}
+@media (min-width:750px) {
+    html {
+        font-size: 100px;
+    }
+}
+body{
+    font-size: 14px;
+    font-family: '微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(247,247,247);
+    max-width: 750px;
+    margin: 0 auto;
+}
